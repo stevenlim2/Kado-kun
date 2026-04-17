@@ -1,0 +1,5 @@
+{
+  "name": "NHN Cloud Card News Maker",
+  "description": "A professional tool to create NHN Cloud style card news with AI summarization and image generation.",
+  "requestFramePermissions": []
+}
