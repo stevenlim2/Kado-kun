@@ -1425,15 +1425,6 @@ export default function App() {
   return (
     <div style={wrapStyle}>
       <style>{`
-        @import url('https://static.toastoven.net/static/fonts/nhnsans/nhnsans.css');
-        @import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css');
-        
-        body { 
-          font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, system-ui, Roboto, sans-serif; 
-          margin: 0; 
-          -webkit-font-smoothing: antialiased;
-          -moz-osx-font-smoothing: grayscale;
-        }
         @keyframes spin {
           from { transform: rotate(0deg); }
           to { transform: rotate(360deg); }
